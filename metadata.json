@@ -1,0 +1,6 @@
+{
+  "name": "Clarté",
+  "description": "Un journal d'introspection privé et élégant soutenu par l'IA pour t'aider à clarifier tes pensées",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
